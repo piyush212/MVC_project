@@ -1,0 +1,38 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.main{
+    background-color: #388e8e;
+    text-align: center;
+    width: 236px;
+    margin: 180px 340px;
+    border: solid black;
+    border-radius: 12px;
+}
+
+body{
+    background-color: rgb(54, 216, 187);
+   
+}
+.comm{
+/* align-content: center; */
+text-align: center;
+/* box-sizing: border-box; */
+margin: 120px 340px;
+border: solid black;
+border-radius: 10px;
+background-color: #388e8e;
+ }
+ #user1{
+    height: 100px;
+    width: 200px;
+ }
+ #btn{
+    width: 200px;
+    height: 30px;
+    font-weight: bolder;
+ }
+ #btn :hover{
+    color: blue;
+ }
